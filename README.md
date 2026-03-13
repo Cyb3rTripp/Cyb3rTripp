@@ -12,10 +12,10 @@ As a recent graduate with a Bachelors degree in Cybersecurity and multiple GIAC 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk Deployment and Log Analysis            | <a href="https://link-to-project.com">Splunk Home Lab</a>|
-| Sysmon Telemetry Investigation                | <a href="https://link-to-project.com">Splunk Home Lab</a>|
-| Windows Defender Event Log Analysis           | <a href="https://link-to-project.com">Splunk Home Lab</a>|
-| Attack Detection and Investigation            | <a href="https://link-to-project.com">Splunk Home Lab</a>|
+| Splunk Deployment and Log Analysis            | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
+| Sysmon Telemetry Investigation                | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
+| Windows Defender Event Log Analysis           | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
+| Attack Detection and Investigation            | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
 
 ## Tools
 I have had hands-on practice with each of the tools listed through either GIAC certification coursework, personal projects, or professional experience.
@@ -68,4 +68,4 @@ I have had hands-on practice with each of the tools listed through either GIAC c
 </div>
 
 ## Projects
-- Splunk Home Lab
+- [Splunk Home Lab](https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main)
