@@ -16,6 +16,10 @@ As a recent graduate with a Bachelors degree in Cybersecurity and multiple GIAC 
 | Sysmon Telemetry Investigation                | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
 | Windows Defender Event Log Analysis           | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
 | Attack Detection and Investigation            | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
+| Web App Exploitation                          | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
+| Password Cracking                             | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
+| Privilege Escalation via PATH Hijacking       | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
+| SSH Key Extraction and Usage                  | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
 
 ## Tools
 I have had hands-on practice with each of the tools listed through either GIAC certification coursework, personal projects, or professional experience.
@@ -27,6 +31,7 @@ I have had hands-on practice with each of the tools listed through either GIAC c
     <img src="https://img.shields.io/badge/nmap-orange?style=for-the-badge" />
     <img src="https://img.shields.io/badge/netcat-brown?style=for-the-badge" />
     <img src="https://img.shields.io/badge/masscan-606060?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Burp%20Suite-F63?logo=burpsuite&logoColor=fff&style=for-the-badge" />
 </div>
 
 ### Endpoint
@@ -55,8 +60,10 @@ I have had hands-on practice with each of the tools listed through either GIAC c
 <div>
     <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=Metasploit&logoColor=black" />
     <img src="https://img.shields.io/badge/hashcat-E0E0E0?style=for-the-badge&logo=Hashcat&logoColor=black" />
+    <img src="https://img.shields.io/badge/hydra-purple?style=for-the-badge" />
     <img src="https://img.shields.io/badge/john_the_ripper-ff0000?style=for-the-badge" />
     <img src="https://img.shields.io/badge/sqlmap-darkgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ffuf-yellow?style=for-the-badge" />
 </div>
 
 ## Certifications
@@ -69,3 +76,4 @@ I have had hands-on practice with each of the tools listed through either GIAC c
 
 ## Projects
 - [Splunk Home Lab](https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main)
+- [THM Lookup Write-up](https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main)
