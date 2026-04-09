@@ -77,3 +77,4 @@ I have had hands-on practice with each of the tools listed through either GIAC c
 ## Projects
 - [Splunk Home Lab](https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main)
 - [THM Lookup Write-up](https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main)
+- [THM Flatline Write-up](https://github.com/Cyb3rTripp/THM-Flatline-Write-Up)
