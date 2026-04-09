@@ -10,16 +10,19 @@ As a recent graduate with a Bachelors degree in Cybersecurity and multiple GIAC 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Splunk Deployment and Log Analysis            | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
-| Sysmon Telemetry Investigation                | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
-| Windows Defender Event Log Analysis           | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
-| Attack Detection and Investigation            | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
-| Web App Exploitation                          | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
-| Password Cracking                             | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
-| Privilege Escalation via PATH Hijacking       | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
-| SSH Key Extraction and Usage                  | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
+| Skill                                                | Associated Project         |
+|------------------------------------------------------|----------------------------|
+| Splunk Deployment and Log Analysis                   | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
+| Sysmon Telemetry Investigation                       | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
+| Windows Defender Event Log Analysis                  | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
+| Attack Detection and Investigation                   | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
+| Web App Exploitation                                 | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
+| Password Cracking                                    | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
+| Privilege Escalation via PATH Hijacking              | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
+| SSH Key Extraction and Usage                         | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
+| Exploiting RCE Vulnerabilities                       | <a href="https://github.com/Cyb3rTripp/THM-Flatline-Write-Up/tree/main">THM Flatline Write-up</a> |
+| Privilege Escalation via Misconfigured Applications  | <a href="https://github.com/Cyb3rTripp/THM-Flatline-Write-Up/tree/main">THM Flatline Write-up</a> |
+ Privilege Escalation via Insecure File Permissions    | <a href="https://github.com/Cyb3rTripp/THM-Flatline-Write-Up/tree/main">THM Flatline Write-up</a> | 
 
 ## Tools
 I have had hands-on practice with each of the tools listed through either GIAC certification coursework, personal projects, or professional experience.
@@ -59,11 +62,14 @@ I have had hands-on practice with each of the tools listed through either GIAC c
 ### Offensive
 <div>
     <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=Metasploit&logoColor=black" />
+    <img src="https://img.shields.io/badge/msfvenom-black?style=for-the-badge" />
     <img src="https://img.shields.io/badge/hashcat-E0E0E0?style=for-the-badge&logo=Hashcat&logoColor=black" />
     <img src="https://img.shields.io/badge/hydra-purple?style=for-the-badge" />
     <img src="https://img.shields.io/badge/john_the_ripper-ff0000?style=for-the-badge" />
     <img src="https://img.shields.io/badge/sqlmap-darkgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/ffuf-yellow?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ExploitDB-%230f55a1?style=for-the-badge" />
+
 </div>
 
 ## Certifications
