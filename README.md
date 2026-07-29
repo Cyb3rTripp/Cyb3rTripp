@@ -12,10 +12,14 @@ As a recent graduate with a Bachelors degree in Cybersecurity and multiple GIAC 
 
 | Skill                                                | Associated Project         |
 |------------------------------------------------------|----------------------------|
-| Splunk Deployment and Log Analysis                   | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
-| Sysmon Telemetry Investigation                       | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
-| Windows Defender Event Log Analysis                  | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
-| Attack Detection and Investigation                   | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a>|
+| Splunk Deployment and Log Analysis                   | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a> |
+| Sysmon Telemetry Investigation                       | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a> |
+| Windows Defender Event Log Analysis                  | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a> |
+| Attack Detection and Investigation                   | <a href="https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main">Splunk Home Lab</a> |
+| Honeypot Deployment and Administration               | <a href="https://github.com/Cyb3rTripp/Cowrie-Honeypot-SIEM-Lab/tree/main">Cowrie Honeypot SIEM Lab</a> |
+| Security Event Pipeline Development                  | <a href="https://github.com/Cyb3rTripp/Cowrie-Honeypot-SIEM-Lab/tree/main">Cowrie Honeypot SIEM Lab</a> |
+| Attacker Behavior Analysis and Classification        | <a href="https://github.com/Cyb3rTripp/Cowrie-Honeypot-SIEM-Lab/tree/main">Cowrie Honeypot SIEM Lab</a> |
+| Elasticsearch and Kibana Dashboard Development       | <a href="https://github.com/Cyb3rTripp/Cowrie-Honeypot-SIEM-Lab/tree/main">Cowrie Honeypot SIEM Lab</a> |
 | Web App Exploitation                                 | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
 | Password Cracking                                    | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
 | Privilege Escalation via PATH Hijacking              | <a href="https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main">THM Lookup Write-up</a> |
@@ -46,6 +50,9 @@ I have had hands-on practice with each of the tools listed through either GIAC c
 ### Security Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Cowrie-orange?style=for-the-badge" />
     <img src="https://img.shields.io/badge/snort-F6A7AA?style=for-the-badge&logo=Snort&logoColor=black" />
     <img src="https://img.shields.io/badge/zeek-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/crowdstrike_falcon-ff0000?style=for-the-badge" />
@@ -69,7 +76,24 @@ I have had hands-on practice with each of the tools listed through either GIAC c
     <img src="https://img.shields.io/badge/sqlmap-darkgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/ffuf-yellow?style=for-the-badge" />
     <img src="https://img.shields.io/badge/ExploitDB-%230f55a1?style=for-the-badge" />
+</div>
 
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/Ubuntu%20Server-orange?style=for-the-badge&logo=Ubuntu&logoColor=white&color=FF4500" />
+    <img src="https://img.shields.io/badge/Ubuntu%20Desktop-orange?style=for-the-badge&logo=Ubuntu&logoColor=white&color=FF4500" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Windows%2011-00BFFF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge" />
+</div>
+
+### Languages
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=GNU%20Bash" />
+    <img src="https://img.shields.io/badge/PowerShell-0000FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SQL-DDA0DD?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SPL-006400?style=for-the-badge" />
 </div>
 
 ## Certifications
@@ -82,5 +106,6 @@ I have had hands-on practice with each of the tools listed through either GIAC c
 
 ## Projects
 - [Splunk Home Lab](https://github.com/Cyb3rTripp/Splunk-Home-Lab/tree/main)
+- [Cowrie Honeypot SIEM Lab](https://github.com/Cyb3rTripp/Cowrie-Honeypot-SIEM-Lab/tree/main)
 - [THM Lookup Write-up](https://github.com/Cyb3rTripp/THM-Lookup-Write-up/tree/main)
 - [THM Flatline Write-up](https://github.com/Cyb3rTripp/THM-Flatline-Write-Up)
