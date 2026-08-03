@@ -173,6 +173,7 @@ Documented exploitation of a web app, password cracking, PATH-hijacking privileg
 
 Documented RCE exploitation and privilege escalation via misconfigured applications and insecure file permissions.
 
+---
 
 ## 🎓 Certifications
 <div>
