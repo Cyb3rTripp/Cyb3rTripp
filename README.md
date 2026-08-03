@@ -71,7 +71,7 @@ I'm looking for a role in security operations, incident response/DFIR, threat in
 </table>
 
 
-> 📂 See each skill in action in the [Projects](https://github.com/Cyb3rTripp/vigilant-octo-couscous/blob/main/README.md#-featured-projects) section below.
+> 📂 See each skill in action in the [Projects](https://github.com/Cyb3rTripp/Cyb3rTripp/blob/main/README.md#-featured-projects) section below.
 
 
 
