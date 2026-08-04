@@ -7,7 +7,7 @@ I like building things I can break, then breaking things I can learn from — th
 
 ## Objective
 
-I'm looking for a role in security operations, incident response/DFIR, threat intelligence, or GRC/compliance support. I bring hands-on experience from a cybersecurity internship (threat profiling, detection-rule development in Splunk/CrowdStrike) and self-directed projects (see below). 
+I'm looking for a role in security operations, incident response/DFIR, threat intelligence, or GRC/compliance support. I bring hands-on experience from a cybersecurity internship (threat profiling, detection-rule development in Splunk/CrowdStrike), nearly 190 hands-on labs completed across my SANS coursework, and self-directed projects (see below).
 
 **U.S. citizen, eligible to obtain a security clearance.**
 
@@ -16,6 +16,13 @@ I'm looking for a role in security operations, incident response/DFIR, threat in
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=red)](https://tryhackme.com/p/Cyb3rTripp)
 
 
+## 🎓 Certifications
+<div>
+<a href="https://www.credly.com/earner/earned/badge/526e18dc-54e8-4801-bf4e-c08c902a0a05"><img src="https://images.credly.com/size/160x160/images/061f34d8-aa10-44d6-90d2-99ae0b864214/image.png" /></a>
+<a href="https://www.credly.com/earner/earned/badge/3555473e-59db-4435-bac3-2122b7ffbdfa"><img src="https://images.credly.com/size/160x160/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" /></a>
+<a href="https://www.credly.com/earner/earned/badge/b62a5c78-9f41-40a8-93fd-5438117e92a3"><img src="https://images.credly.com/size/160x160/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" /></a>
+<a href="https://www.credly.com/earner/earned/badge/e346a060-f642-4db8-83ff-4fefe24bbba4"><img src="https://images.credly.com/size/160x160/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" /></a>
+</div>
 
 ## 🧩 Skills
 
@@ -175,10 +182,3 @@ Documented RCE exploitation and privilege escalation via misconfigured applicati
 
 ---
 
-## 🎓 Certifications
-<div>
-<a href="https://www.credly.com/earner/earned/badge/526e18dc-54e8-4801-bf4e-c08c902a0a05"><img src="https://images.credly.com/size/160x160/images/061f34d8-aa10-44d6-90d2-99ae0b864214/image.png" /></a>
-<a href="https://www.credly.com/earner/earned/badge/3555473e-59db-4435-bac3-2122b7ffbdfa"><img src="https://images.credly.com/size/160x160/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" /></a>
-<a href="https://www.credly.com/earner/earned/badge/b62a5c78-9f41-40a8-93fd-5438117e92a3"><img src="https://images.credly.com/size/160x160/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" /></a>
-<a href="https://www.credly.com/earner/earned/badge/e346a060-f642-4db8-83ff-4fefe24bbba4"><img src="https://images.credly.com/size/160x160/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" /></a>
-</div>
